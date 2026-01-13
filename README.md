@@ -1,4 +1,3 @@
-# buildmaster
 npx create-next-app@latest buildmaster
 cd buildmaster
 git init
